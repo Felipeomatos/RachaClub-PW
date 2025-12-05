@@ -7,7 +7,7 @@
 }
 
 header {
-    background-image: url(../img/banners/banner_projetos.png);
+    background-image: url(/assets/img/banners/banner_projetos.png);
     background-size: cover;
     height: 78vh;
     margin: 0;
